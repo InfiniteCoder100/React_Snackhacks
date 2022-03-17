@@ -71,7 +71,7 @@ export class Checkout extends Component {
       <div>
         <div className="container1">
         <img className="intro" src={image1} alt="intro"/>
-        <div className="heading1"><b>Grub<span>Eats</span></b></div>
+        <div className="heading1"><b>Snack<span>Hacks</span></b></div>
         </div> 
         <div className="formhead">Fill Your Address</div><br></br>
         <form className="formmain" onSubmit={this.addUser}>
