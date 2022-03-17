@@ -16,7 +16,7 @@
     "firebase": "^7.15.5",
     "materialize-css": "^1.0.0-rc.2",
     "mdbreact": "^4.27.0",
-    "react": "^16.6.3",
+    "react": "^16.14.0",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-fontawesome": "^1.7.1",

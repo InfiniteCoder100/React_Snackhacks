@@ -27,7 +27,7 @@ export class SlideShow extends Component{
                         />
                         
                         <MDBCarouselCaption>
-                          <h3 className="cap h3-responsive"><b><u>Grub<span>Eats</span></u></b></h3>
+                          <h3 className="cap h3-responsive"><b><u>Snack<span>Hacks</span></u></b></h3>
                           <Button variant="light"className="capbtn" size="lg"><a className="linkbtn" href="#start">Explore</a></Button>
                         </MDBCarouselCaption>
                       </MDBView>
@@ -40,7 +40,7 @@ export class SlideShow extends Component{
                           alt="Second slide"
                         />
                         <MDBCarouselCaption>
-                          <h3 className="cap h3-responsive"><b><u>Grub<span>Eats</span></u></b></h3>
+                          <h3 className="cap h3-responsive"><b><u>Snack<span>Hacks</span></u></b></h3>
                           <Button variant="light"className="capbtn" size="lg"><a className="linkbtn" href="#start">Explore</a></Button>
 
                         </MDBCarouselCaption>
@@ -54,7 +54,7 @@ export class SlideShow extends Component{
                           alt="Third slide"
                         />
                         <MDBCarouselCaption>
-                          <h3 className="cap h3-responsive"><b><u>Grub<span>Eats</span></u></b></h3>
+                          <h3 className="cap h3-responsive"><b><u>Snack<span>Hacks</span></u></b></h3>
                           <Button variant="light"className="capbtn" size="lg"><a className="linkbtn" href="#start">Explore</a></Button>
 
                         </MDBCarouselCaption>
@@ -68,7 +68,7 @@ export class SlideShow extends Component{
                           alt="Fourth slide"
                         />
                         <MDBCarouselCaption>
-                          <h3 className="cap h3-responsive"><b><u>Grub<span>Eats</span></u></b></h3>
+                          <h3 className="cap h3-responsive"><b><u>Snack<span>Hacks</span></u></b></h3>
                           <Button variant="light"className="capbtn" size="lg"><a className="linkbtn" href="#start">Explore</a></Button>
 
                         </MDBCarouselCaption>
@@ -82,7 +82,7 @@ export class SlideShow extends Component{
                           alt="Fifth slide"
                         />
                         <MDBCarouselCaption>
-                          <h3 className="cap h3-responsive"><b><u>Grub<span>Eats</span></u></b></h3>
+                          <h3 className="cap h3-responsive"><b><u>Snack<span>Hacks</span></u></b></h3>
                           <Button variant="light"className="capbtn" size="lg"><a className="linkbtn" href="#start">Explore</a></Button>
 
                         </MDBCarouselCaption>

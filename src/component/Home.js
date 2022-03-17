@@ -18,8 +18,8 @@ export class Home extends Component{
                 </div>
 {/* ------------------------------Parallax1--------------------------- */}
                 <div id="start" className="leftbox"> 
-                       <p className="Hometext"><p className="Homeheading"><b>Grub<span>Eats</span></b></p>
-                       Discover the warm and inviting hospitality that awaits you at GrubEats <br></br>
+                       <p className="Hometext"><p className="Homeheading"><b>Snack<span>Hacks</span></b></p>
+                       Discover the warm and inviting hospitality that awaits you at SnackHacks<br></br>
                         Hotel Chandigarh, India, with its prime location, luxurious accommodation <br></br>
                         and elegant finishing touches. Set in Chandigarh's business district, <br></br>
                         guests are near Sector 17, the airport and the legendary Rock Garden. <br></br>

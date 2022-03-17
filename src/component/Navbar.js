@@ -9,7 +9,7 @@ export class NavBar extends Component{
             <div>
                 
             <Navbar className="navi" expands="lg">
-            <Navbar.Brand className=" brand text-white">GE
+            <Navbar.Brand className=" brand text-white">SH
             </Navbar.Brand>
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav>
